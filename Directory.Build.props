@@ -45,8 +45,8 @@
     <PackageIcon>Icon.png</PackageIcon>
     <PackageReadmeFile>Readme.md</PackageReadmeFile>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <PackageProjectUrl>https://github.com/profix898/JabViewModelFactory</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/profix898/JabViewModelFactory</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/profix898/Jab.ViewModelFactory</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/profix898/Jab.ViewModelFactory</RepositoryUrl>
   </PropertyGroup>
   <!-- Packaging -->
   <!--<PropertyGroup Condition="'$(Configuration)' == 'Release'">-->

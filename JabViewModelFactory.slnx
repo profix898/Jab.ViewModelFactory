@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="AvaloniaDemo/AvaloniaDemo.csproj" />
+  <Project Path="Jab.ViewModelFactory.Tests/Jab.ViewModelFactory.Tests.csproj" />
+  <Project Path="Jab.ViewModelFactory/Jab.ViewModelFactory.csproj" />
+</Solution>
